@@ -1,7 +1,7 @@
-const city = 'New York'; // NON MODIFICARE QUESTA RIGA
-const cityName = 'City'; // NON MODIFICARE QUESTA RIGA
-const shoppingList = 'mele, banane, arance, uva'; // NON MODIFICARE QUESTA RIGA
-const hello = 'hello'; // NON MODIFICARE QUESTA RIGA
+const city = "New York"; // NON MODIFICARE QUESTA RIGA
+const cityName = "City"; // NON MODIFICARE QUESTA RIGA
+const shoppingList = "mele, banane, arance, uva"; // NON MODIFICARE QUESTA RIGA
+const hello = "hello"; // NON MODIFICARE QUESTA RIGA
 
 // 1. Cerca un carattere in una stringa
 // Stampa l'INDICE con cui viene trovato
@@ -9,7 +9,7 @@ const hello = 'hello'; // NON MODIFICARE QUESTA RIGA
 const cityIndex = 4;
 console.log(cityIndex); // Output: 4
 
-// 2. Sottostringhe 
+// 2. Sottostringhe
 // Stampa la sottostringa "York" dalla variabile city
 const citySubstring = city.substring(4, 8);
 console.log(citySubstring); // Output: "York"
